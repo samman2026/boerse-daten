@@ -1,6 +1,6 @@
 {
- "abgerufen_zuerich": "10.10.2026 05:19",
- "abgerufen_utc": "2026-10-10T03:19:28.171504+00:00",
+ "abgerufen_zuerich": "10.10.2026 06:19",
+ "abgerufen_utc": "2026-10-10T04:19:39.726221+00:00",
  "quelle": "Yahoo Finance (verzoegert)",
  "titel": {
   "SMI": {
@@ -128,15 +128,15 @@
   "XRP_EUR": {
    "name": "XRP_EUR",
    "ticker": "XRP-EUR",
-   "kurs": 1.2534,
-   "zeit_zuerich": "10.10.2026 05:15",
-   "zeit_utc": "2026-10-10T03:15:00+00:00",
+   "kurs": 1.2529,
+   "zeit_zuerich": "10.10.2026 06:15",
+   "zeit_utc": "2026-10-10T04:15:00+00:00",
    "vortag": 1.229846,
-   "veraenderung_prozent": 1.92,
+   "veraenderung_prozent": 1.87,
    "tageshoch": 1.256035,
    "tagestief": 1.245325,
    "hoch_schluss_1j": 2.274177,
-   "rueckgang_vom_hoch_prozent": 44.89
+   "rueckgang_vom_hoch_prozent": 44.91
   },
   "EURCHF": {
    "name": "EURCHF",
@@ -224,7 +224,7 @@
    "zeit_utc": "2026-10-09T20:55:00+00:00",
    "vortag": 4157.0,
    "veraenderung_prozent": 1.52,
-   "tageshoch": 4232.700195,
+   "tageshoch": 4233.700195,
    "tagestief": 4156.100098,
    "hoch_schluss_1j": 5318.399902,
    "rueckgang_vom_hoch_prozent": 20.65
@@ -232,15 +232,15 @@
   "Bitcoin_USD": {
    "name": "Bitcoin_USD",
    "ticker": "BTC-USD",
-   "kurs": 82513.5625,
-   "zeit_zuerich": "10.10.2026 05:15",
-   "zeit_utc": "2026-10-10T03:15:00+00:00",
+   "kurs": 82611.828125,
+   "zeit_zuerich": "10.10.2026 06:15",
+   "zeit_utc": "2026-10-10T04:15:00+00:00",
    "vortag": 81676.335938,
-   "veraenderung_prozent": 1.03,
+   "veraenderung_prozent": 1.15,
    "tageshoch": 82650.484375,
    "tagestief": 82475.203125,
    "hoch_schluss_1j": 115271.078125,
-   "rueckgang_vom_hoch_prozent": 28.42
+   "rueckgang_vom_hoch_prozent": 28.33
   },
   "DAX": {
    "name": "DAX",
@@ -276,8 +276,8 @@
    "zeit_utc": "2026-10-09T19:55:00+00:00",
    "vortag": 27193.339844,
    "veraenderung_prozent": 0.63,
-   "tageshoch": 27395.414062,
-   "tagestief": 27254.033203,
+   "tageshoch": 27395.410156,
+   "tagestief": 27254.029297,
    "hoch_schluss_1j": 27599.789062,
    "rueckgang_vom_hoch_prozent": 0.85
   },
@@ -427,15 +427,15 @@
   "Ethereum_EUR": {
    "name": "Ethereum_EUR",
    "ticker": "ETH-EUR",
-   "kurs": 2224.899902,
-   "zeit_zuerich": "10.10.2026 05:15",
-   "zeit_utc": "2026-10-10T03:15:00+00:00",
+   "kurs": 2226.189941,
+   "zeit_zuerich": "10.10.2026 06:15",
+   "zeit_utc": "2026-10-10T04:15:00+00:00",
    "vortag": 2204.548096,
-   "veraenderung_prozent": 0.92,
+   "veraenderung_prozent": 0.98,
    "tageshoch": 2225.437988,
    "tagestief": 2217.697266,
    "hoch_schluss_1j": 3670.737793,
-   "rueckgang_vom_hoch_prozent": 39.39
+   "rueckgang_vom_hoch_prozent": 39.35
   }
  }
 }
