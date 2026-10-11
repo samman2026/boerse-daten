@@ -1,6 +1,6 @@
 {
- "abgerufen_zuerich": "11.10.2026 08:24",
- "abgerufen_utc": "2026-10-11T06:24:40.270912+00:00",
+ "abgerufen_zuerich": "11.10.2026 09:19",
+ "abgerufen_utc": "2026-10-11T07:19:58.842420+00:00",
  "quelle": "Yahoo Finance (verzoegert)",
  "titel": {
   "SMI": {
@@ -128,15 +128,15 @@
   "XRP_EUR": {
    "name": "XRP_EUR",
    "ticker": "XRP-EUR",
-   "kurs": 1.2441,
-   "zeit_zuerich": "11.10.2026 08:20",
-   "zeit_utc": "2026-10-11T06:20:00+00:00",
-   "vortag": 1.245343,
-   "veraenderung_prozent": -0.1,
+   "kurs": 1.2451,
+   "zeit_zuerich": "11.10.2026 09:15",
+   "zeit_utc": "2026-10-11T07:15:00+00:00",
+   "vortag": 1.251209,
+   "veraenderung_prozent": -0.49,
    "tageshoch": 1.251503,
    "tagestief": 1.239254,
    "hoch_schluss_1j": 2.274177,
-   "rueckgang_vom_hoch_prozent": 45.29
+   "rueckgang_vom_hoch_prozent": 45.25
   },
   "EURCHF": {
    "name": "EURCHF",
@@ -232,15 +232,15 @@
   "Bitcoin_USD": {
    "name": "Bitcoin_USD",
    "ticker": "BTC-USD",
-   "kurs": 82955.382812,
-   "zeit_zuerich": "11.10.2026 08:20",
-   "zeit_utc": "2026-10-11T06:20:00+00:00",
-   "vortag": 82546.320312,
-   "veraenderung_prozent": 0.5,
-   "tageshoch": 83043.382812,
+   "kurs": 83059.109375,
+   "zeit_zuerich": "11.10.2026 09:20",
+   "zeit_utc": "2026-10-11T07:20:00+00:00",
+   "vortag": 82912.226562,
+   "veraenderung_prozent": 0.18,
+   "tageshoch": 83101.414062,
    "tagestief": 82744.375,
    "hoch_schluss_1j": 115271.078125,
-   "rueckgang_vom_hoch_prozent": 28.03
+   "rueckgang_vom_hoch_prozent": 27.94
   },
   "DAX": {
    "name": "DAX",
@@ -401,7 +401,7 @@
   "Apple": {
    "name": "Apple",
    "ticker": "AAPL",
-   "kurs": 336.630005,
+   "kurs": 336.649994,
    "zeit_zuerich": "09.10.2026 21:55",
    "zeit_utc": "2026-10-09T19:55:00+00:00",
    "vortag": 340.420013,
@@ -427,15 +427,15 @@
   "Ethereum_EUR": {
    "name": "Ethereum_EUR",
    "ticker": "ETH-EUR",
-   "kurs": 2234.110107,
-   "zeit_zuerich": "11.10.2026 08:20",
-   "zeit_utc": "2026-10-11T06:20:00+00:00",
-   "vortag": 2218.34082,
-   "veraenderung_prozent": 0.71,
+   "kurs": 2235.219971,
+   "zeit_zuerich": "11.10.2026 09:15",
+   "zeit_utc": "2026-10-11T07:15:00+00:00",
+   "vortag": 2235.140137,
+   "veraenderung_prozent": 0.0,
    "tageshoch": 2240.791748,
    "tagestief": 2229.332764,
    "hoch_schluss_1j": 3670.737793,
-   "rueckgang_vom_hoch_prozent": 39.14
+   "rueckgang_vom_hoch_prozent": 39.11
   }
  }
 }
