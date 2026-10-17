@@ -1,6 +1,6 @@
 {
- "abgerufen_zuerich": "17.10.2026 10:27",
- "abgerufen_utc": "2026-10-17T08:27:24.963531+00:00",
+ "abgerufen_zuerich": "17.10.2026 11:26",
+ "abgerufen_utc": "2026-10-17T09:26:26.986599+00:00",
  "quelle": "Yahoo Finance (verzoegert)",
  "titel": {
   "SMI": {
@@ -37,8 +37,8 @@
    "zeit_utc": "2026-10-16T15:15:00+00:00",
    "vortag": 81.07,
    "veraenderung_prozent": 1.37,
-   "tageshoch": null,
-   "tagestief": null,
+   "tageshoch": 82.550003,
+   "tagestief": 81.269997,
    "hoch_schluss_1j": 86.169998,
    "rueckgang_vom_hoch_prozent": 4.63
   },
@@ -81,8 +81,8 @@
    "zeit_utc": "2026-10-16T15:15:00+00:00",
    "vortag": 175.050003,
    "veraenderung_prozent": 0.8,
-   "tageshoch": null,
-   "tagestief": null,
+   "tageshoch": 178.350006,
+   "tagestief": 174.699997,
    "hoch_schluss_1j": 200.800003,
    "rueckgang_vom_hoch_prozent": 12.13
   },
@@ -94,8 +94,8 @@
    "zeit_utc": "2026-10-16T15:15:00+00:00",
    "vortag": 76.199997,
    "veraenderung_prozent": -0.24,
-   "tageshoch": null,
-   "tagestief": null,
+   "tageshoch": 77.800003,
+   "tagestief": 75.68,
    "hoch_schluss_1j": 88.559998,
    "rueckgang_vom_hoch_prozent": 14.16
   },
@@ -128,15 +128,15 @@
   "XRP_EUR": {
    "name": "XRP_EUR",
    "ticker": "XRP-EUR",
-   "kurs": 1.1643,
-   "zeit_zuerich": "17.10.2026 10:25",
-   "zeit_utc": "2026-10-17T08:25:00+00:00",
+   "kurs": 1.1612,
+   "zeit_zuerich": "17.10.2026 11:25",
+   "zeit_utc": "2026-10-17T09:25:00+00:00",
    "vortag": 1.165626,
-   "veraenderung_prozent": -0.11,
+   "veraenderung_prozent": -0.38,
    "tageshoch": 1.165581,
    "tagestief": 1.158601,
    "hoch_schluss_1j": 2.274177,
-   "rueckgang_vom_hoch_prozent": 48.8
+   "rueckgang_vom_hoch_prozent": 48.94
   },
   "EURCHF": {
    "name": "EURCHF",
@@ -219,28 +219,28 @@
   "Gold": {
    "name": "Gold",
    "ticker": "GC=F",
-   "kurs": 4186.700195,
+   "kurs": 4181.100098,
    "zeit_zuerich": "16.10.2026 22:55",
    "zeit_utc": "2026-10-16T20:55:00+00:00",
    "vortag": 4170.100098,
-   "veraenderung_prozent": 0.4,
+   "veraenderung_prozent": 0.26,
    "tageshoch": 4220.399902,
    "tagestief": 4167.5,
    "hoch_schluss_1j": 5318.399902,
-   "rueckgang_vom_hoch_prozent": 21.28
+   "rueckgang_vom_hoch_prozent": 21.38
   },
   "Bitcoin_USD": {
    "name": "Bitcoin_USD",
    "ticker": "BTC-USD",
-   "kurs": 81602.9375,
-   "zeit_zuerich": "17.10.2026 10:25",
-   "zeit_utc": "2026-10-17T08:25:00+00:00",
+   "kurs": 81563.632812,
+   "zeit_zuerich": "17.10.2026 11:25",
+   "zeit_utc": "2026-10-17T09:25:00+00:00",
    "vortag": 81500.804688,
-   "veraenderung_prozent": 0.13,
+   "veraenderung_prozent": 0.08,
    "tageshoch": 81627.65625,
    "tagestief": 81302.648438,
    "hoch_schluss_1j": 114472.445312,
-   "rueckgang_vom_hoch_prozent": 28.71
+   "rueckgang_vom_hoch_prozent": 28.75
   },
   "DAX": {
    "name": "DAX",
@@ -302,8 +302,8 @@
    "zeit_utc": "2026-10-16T11:15:00+00:00",
    "vortag": 0.59,
    "veraenderung_prozent": 5.08,
-   "tageshoch": null,
-   "tagestief": null,
+   "tageshoch": 0.62,
+   "tagestief": 0.62,
    "hoch_schluss_1j": 1.52,
    "rueckgang_vom_hoch_prozent": 59.21
   },
@@ -315,8 +315,8 @@
    "zeit_utc": "2026-10-16T15:15:00+00:00",
    "vortag": 86200.0,
    "veraenderung_prozent": 1.28,
-   "tageshoch": null,
-   "tagestief": null,
+   "tageshoch": 87400.0,
+   "tagestief": 85800.0,
    "hoch_schluss_1j": 131600.0,
    "rueckgang_vom_hoch_prozent": 33.66
   },
@@ -328,8 +328,8 @@
    "zeit_utc": "2026-10-16T15:15:00+00:00",
    "vortag": 600.200012,
    "veraenderung_prozent": 1.4,
-   "tageshoch": null,
-   "tagestief": null,
+   "tageshoch": 613.400024,
+   "tagestief": 602.400024,
    "hoch_schluss_1j": 1096.0,
    "rueckgang_vom_hoch_prozent": 44.47
   },
@@ -341,8 +341,8 @@
    "zeit_utc": "2026-10-16T15:15:00+00:00",
    "vortag": 181.350006,
    "veraenderung_prozent": 0.94,
-   "tageshoch": null,
-   "tagestief": null,
+   "tageshoch": 183.350006,
+   "tagestief": 181.25,
    "hoch_schluss_1j": 195.5,
    "rueckgang_vom_hoch_prozent": 6.37
   },
@@ -354,8 +354,8 @@
    "zeit_utc": "2026-10-16T15:15:00+00:00",
    "vortag": 918.599976,
    "veraenderung_prozent": 1.09,
-   "tageshoch": null,
-   "tagestief": null,
+   "tageshoch": 929.0,
+   "tagestief": 912.0,
    "hoch_schluss_1j": 957.799988,
    "rueckgang_vom_hoch_prozent": 3.05
   },
@@ -367,8 +367,8 @@
    "zeit_utc": "2026-10-16T15:25:00+00:00",
    "vortag": 1026.0,
    "veraenderung_prozent": 6.76,
-   "tageshoch": null,
-   "tagestief": null,
+   "tageshoch": 1096.599976,
+   "tagestief": 1036.800049,
    "hoch_schluss_1j": 1920.0,
    "rueckgang_vom_hoch_prozent": 42.95
   },
@@ -380,23 +380,23 @@
    "zeit_utc": "2026-10-16T15:25:00+00:00",
    "vortag": 82.919998,
    "veraenderung_prozent": 6.1,
-   "tageshoch": null,
-   "tagestief": null,
+   "tageshoch": 89.019997,
+   "tagestief": 83.82,
    "hoch_schluss_1j": 98.650002,
    "rueckgang_vom_hoch_prozent": 10.82
   },
   "Nvidia": {
    "name": "Nvidia",
    "ticker": "NVDA",
-   "kurs": 214.130005,
+   "kurs": 214.139999,
    "zeit_zuerich": "16.10.2026 21:55",
    "zeit_utc": "2026-10-16T19:55:00+00:00",
    "vortag": 217.229996,
-   "veraenderung_prozent": -1.43,
+   "veraenderung_prozent": -1.42,
    "tageshoch": 218.679993,
    "tagestief": 213.320007,
    "hoch_schluss_1j": 239.240005,
-   "rueckgang_vom_hoch_prozent": 10.5
+   "rueckgang_vom_hoch_prozent": 10.49
   },
   "Apple": {
    "name": "Apple",
@@ -427,15 +427,15 @@
   "Ethereum_EUR": {
    "name": "Ethereum_EUR",
    "ticker": "ETH-EUR",
-   "kurs": 2164.48999,
-   "zeit_zuerich": "17.10.2026 10:25",
-   "zeit_utc": "2026-10-17T08:25:00+00:00",
+   "kurs": 2163.649902,
+   "zeit_zuerich": "17.10.2026 11:25",
+   "zeit_utc": "2026-10-17T09:25:00+00:00",
    "vortag": 2153.036377,
-   "veraenderung_prozent": 0.53,
-   "tageshoch": 2165.275635,
+   "veraenderung_prozent": 0.49,
+   "tageshoch": 2165.502686,
    "tagestief": 2148.619385,
    "hoch_schluss_1j": 3574.852051,
-   "rueckgang_vom_hoch_prozent": 39.45
+   "rueckgang_vom_hoch_prozent": 39.48
   }
  }
 }
