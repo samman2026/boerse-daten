@@ -1,6 +1,6 @@
 {
- "abgerufen_zuerich": "18.10.2026 22:25",
- "abgerufen_utc": "2026-10-18T20:25:00.209673+00:00",
+ "abgerufen_zuerich": "18.10.2026 23:25",
+ "abgerufen_utc": "2026-10-18T21:25:15.027452+00:00",
  "quelle": "Yahoo Finance (verzoegert)",
  "titel": {
   "SMI": {
@@ -128,15 +128,15 @@
   "XRP_EUR": {
    "name": "XRP_EUR",
    "ticker": "XRP-EUR",
-   "kurs": 1.1237,
-   "zeit_zuerich": "18.10.2026 22:20",
-   "zeit_utc": "2026-10-18T20:20:00+00:00",
+   "kurs": 1.1331,
+   "zeit_zuerich": "18.10.2026 23:25",
+   "zeit_utc": "2026-10-18T21:25:00+00:00",
    "vortag": 1.150116,
-   "veraenderung_prozent": -2.3,
+   "veraenderung_prozent": -1.48,
    "tageshoch": 1.159859,
-   "tagestief": 1.11963,
+   "tagestief": 1.119615,
    "hoch_schluss_1j": 2.274177,
-   "rueckgang_vom_hoch_prozent": 50.59
+   "rueckgang_vom_hoch_prozent": 50.18
   },
   "EURCHF": {
    "name": "EURCHF",
@@ -232,15 +232,15 @@
   "Bitcoin_USD": {
    "name": "Bitcoin_USD",
    "ticker": "BTC-USD",
-   "kurs": 80786.15625,
-   "zeit_zuerich": "18.10.2026 22:25",
-   "zeit_utc": "2026-10-18T20:25:00+00:00",
+   "kurs": 80851.148438,
+   "zeit_zuerich": "18.10.2026 23:25",
+   "zeit_utc": "2026-10-18T21:25:00+00:00",
    "vortag": 81382.148438,
-   "veraenderung_prozent": -0.73,
+   "veraenderung_prozent": -0.65,
    "tageshoch": 82143.929688,
-   "tagestief": 80737.367188,
+   "tagestief": 80696.820312,
    "hoch_schluss_1j": 114472.445312,
-   "rueckgang_vom_hoch_prozent": 29.43
+   "rueckgang_vom_hoch_prozent": 29.37
   },
   "DAX": {
    "name": "DAX",
@@ -388,15 +388,15 @@
   "Nvidia": {
    "name": "Nvidia",
    "ticker": "NVDA",
-   "kurs": 214.139999,
+   "kurs": 214.130005,
    "zeit_zuerich": "16.10.2026 21:55",
    "zeit_utc": "2026-10-16T19:55:00+00:00",
    "vortag": 217.229996,
-   "veraenderung_prozent": -1.42,
+   "veraenderung_prozent": -1.43,
    "tageshoch": 218.679993,
    "tagestief": 213.320007,
    "hoch_schluss_1j": 239.240005,
-   "rueckgang_vom_hoch_prozent": 10.49
+   "rueckgang_vom_hoch_prozent": 10.5
   },
   "Apple": {
    "name": "Apple",
@@ -427,15 +427,15 @@
   "Ethereum_EUR": {
    "name": "Ethereum_EUR",
    "ticker": "ETH-EUR",
-   "kurs": 2087.959961,
-   "zeit_zuerich": "18.10.2026 22:25",
-   "zeit_utc": "2026-10-18T20:25:00+00:00",
+   "kurs": 2107.280029,
+   "zeit_zuerich": "18.10.2026 23:20",
+   "zeit_utc": "2026-10-18T21:20:00+00:00",
    "vortag": 2135.32251,
-   "veraenderung_prozent": -2.22,
+   "veraenderung_prozent": -1.31,
    "tageshoch": 2158.430176,
    "tagestief": 2074.623291,
    "hoch_schluss_1j": 3574.852051,
-   "rueckgang_vom_hoch_prozent": 41.59
+   "rueckgang_vom_hoch_prozent": 41.05
   }
  }
 }
