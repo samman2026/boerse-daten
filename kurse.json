@@ -1,6 +1,6 @@
 {
- "abgerufen_zuerich": "18.10.2026 11:26",
- "abgerufen_utc": "2026-10-18T09:26:31.564125+00:00",
+ "abgerufen_zuerich": "18.10.2026 12:26",
+ "abgerufen_utc": "2026-10-18T10:26:05.221939+00:00",
  "quelle": "Yahoo Finance (verzoegert)",
  "titel": {
   "SMI": {
@@ -128,15 +128,15 @@
   "XRP_EUR": {
    "name": "XRP_EUR",
    "ticker": "XRP-EUR",
-   "kurs": 1.1535,
-   "zeit_zuerich": "18.10.2026 11:25",
-   "zeit_utc": "2026-10-18T09:25:00+00:00",
+   "kurs": 1.1545,
+   "zeit_zuerich": "18.10.2026 12:25",
+   "zeit_utc": "2026-10-18T10:25:00+00:00",
    "vortag": 1.150116,
-   "veraenderung_prozent": 0.29,
+   "veraenderung_prozent": 0.38,
    "tageshoch": 1.159859,
    "tagestief": 1.1466,
    "hoch_schluss_1j": 2.274177,
-   "rueckgang_vom_hoch_prozent": 49.28
+   "rueckgang_vom_hoch_prozent": 49.23
   },
   "EURCHF": {
    "name": "EURCHF",
@@ -232,15 +232,15 @@
   "Bitcoin_USD": {
    "name": "Bitcoin_USD",
    "ticker": "BTC-USD",
-   "kurs": 81809.789062,
-   "zeit_zuerich": "18.10.2026 11:25",
-   "zeit_utc": "2026-10-18T09:25:00+00:00",
+   "kurs": 82091.65625,
+   "zeit_zuerich": "18.10.2026 12:25",
+   "zeit_utc": "2026-10-18T10:25:00+00:00",
    "vortag": 81382.148438,
-   "veraenderung_prozent": 0.53,
-   "tageshoch": 81895.914062,
+   "veraenderung_prozent": 0.87,
+   "tageshoch": 82143.929688,
    "tagestief": 81302.476562,
    "hoch_schluss_1j": 114472.445312,
-   "rueckgang_vom_hoch_prozent": 28.53
+   "rueckgang_vom_hoch_prozent": 28.29
   },
   "DAX": {
    "name": "DAX",
@@ -427,15 +427,15 @@
   "Ethereum_EUR": {
    "name": "Ethereum_EUR",
    "ticker": "ETH-EUR",
-   "kurs": 2149.169922,
-   "zeit_zuerich": "18.10.2026 11:25",
-   "zeit_utc": "2026-10-18T09:25:00+00:00",
+   "kurs": 2154.120117,
+   "zeit_zuerich": "18.10.2026 12:25",
+   "zeit_utc": "2026-10-18T10:25:00+00:00",
    "vortag": 2135.32251,
-   "veraenderung_prozent": 0.65,
-   "tageshoch": 2157.715088,
+   "veraenderung_prozent": 0.88,
+   "tageshoch": 2158.430176,
    "tagestief": 2131.963379,
    "hoch_schluss_1j": 3574.852051,
-   "rueckgang_vom_hoch_prozent": 39.88
+   "rueckgang_vom_hoch_prozent": 39.74
   }
  }
 }
