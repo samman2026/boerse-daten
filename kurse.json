@@ -1,6 +1,6 @@
 {
- "abgerufen_zuerich": "24.10.2026 04:29",
- "abgerufen_utc": "2026-10-24T02:29:48.242239+00:00",
+ "abgerufen_zuerich": "24.10.2026 05:29",
+ "abgerufen_utc": "2026-10-24T03:29:40.260606+00:00",
  "quelle": "Yahoo Finance (verzoegert)",
  "titel": {
   "SMI": {
@@ -128,15 +128,15 @@
   "XRP_EUR": {
    "name": "XRP_EUR",
    "ticker": "XRP-EUR",
-   "kurs": 1.1545,
-   "zeit_zuerich": "24.10.2026 04:25",
-   "zeit_utc": "2026-10-24T02:25:00+00:00",
+   "kurs": 1.1533,
+   "zeit_zuerich": "24.10.2026 05:25",
+   "zeit_utc": "2026-10-24T03:25:00+00:00",
    "vortag": 1.165345,
-   "veraenderung_prozent": -0.93,
+   "veraenderung_prozent": -1.03,
    "tageshoch": 1.155074,
    "tagestief": 1.14565,
    "hoch_schluss_1j": 2.274177,
-   "rueckgang_vom_hoch_prozent": 49.23
+   "rueckgang_vom_hoch_prozent": 49.29
   },
   "EURCHF": {
    "name": "EURCHF",
@@ -232,15 +232,15 @@
   "Bitcoin_USD": {
    "name": "Bitcoin_USD",
    "ticker": "BTC-USD",
-   "kurs": 80856.492188,
-   "zeit_zuerich": "24.10.2026 04:25",
-   "zeit_utc": "2026-10-24T02:25:00+00:00",
+   "kurs": 80859.921875,
+   "zeit_zuerich": "24.10.2026 05:25",
+   "zeit_utc": "2026-10-24T03:25:00+00:00",
    "vortag": 81311.890625,
    "veraenderung_prozent": -0.56,
    "tageshoch": 81079.976562,
    "tagestief": 80530.265625,
    "hoch_schluss_1j": 114472.445312,
-   "rueckgang_vom_hoch_prozent": 29.37
+   "rueckgang_vom_hoch_prozent": 29.36
   },
   "DAX": {
    "name": "DAX",
@@ -427,15 +427,15 @@
   "Ethereum_EUR": {
    "name": "Ethereum_EUR",
    "ticker": "ETH-EUR",
-   "kurs": 2127.679932,
-   "zeit_zuerich": "24.10.2026 04:25",
-   "zeit_utc": "2026-10-24T02:25:00+00:00",
+   "kurs": 2128.820068,
+   "zeit_zuerich": "24.10.2026 05:25",
+   "zeit_utc": "2026-10-24T03:25:00+00:00",
    "vortag": 2126.502686,
-   "veraenderung_prozent": 0.06,
-   "tageshoch": 2128.641602,
+   "veraenderung_prozent": 0.11,
+   "tageshoch": 2129.509766,
    "tagestief": 2114.481934,
    "hoch_schluss_1j": 3574.852051,
-   "rueckgang_vom_hoch_prozent": 40.48
+   "rueckgang_vom_hoch_prozent": 40.45
   }
  }
 }
