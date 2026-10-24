@@ -1,6 +1,6 @@
 {
- "abgerufen_zuerich": "24.10.2026 14:32",
- "abgerufen_utc": "2026-10-24T12:32:08.561108+00:00",
+ "abgerufen_zuerich": "24.10.2026 15:31",
+ "abgerufen_utc": "2026-10-24T13:31:13.972052+00:00",
  "quelle": "Yahoo Finance (verzoegert)",
  "titel": {
   "SMI": {
@@ -128,15 +128,15 @@
   "XRP_EUR": {
    "name": "XRP_EUR",
    "ticker": "XRP-EUR",
-   "kurs": 1.148,
-   "zeit_zuerich": "24.10.2026 14:30",
-   "zeit_utc": "2026-10-24T12:30:00+00:00",
+   "kurs": 1.1456,
+   "zeit_zuerich": "24.10.2026 15:30",
+   "zeit_utc": "2026-10-24T13:30:00+00:00",
    "vortag": 1.155126,
-   "veraenderung_prozent": -0.62,
+   "veraenderung_prozent": -0.82,
    "tageshoch": 1.155074,
    "tagestief": 1.136626,
    "hoch_schluss_1j": 2.274177,
-   "rueckgang_vom_hoch_prozent": 49.52
+   "rueckgang_vom_hoch_prozent": 49.63
   },
   "EURCHF": {
    "name": "EURCHF",
@@ -232,15 +232,15 @@
   "Bitcoin_USD": {
    "name": "Bitcoin_USD",
    "ticker": "BTC-USD",
-   "kurs": 80656.757812,
-   "zeit_zuerich": "24.10.2026 14:30",
-   "zeit_utc": "2026-10-24T12:30:00+00:00",
+   "kurs": 80638.53125,
+   "zeit_zuerich": "24.10.2026 15:30",
+   "zeit_utc": "2026-10-24T13:30:00+00:00",
    "vortag": 81074.1875,
-   "veraenderung_prozent": -0.51,
+   "veraenderung_prozent": -0.54,
    "tageshoch": 81079.976562,
    "tagestief": 80388.65625,
    "hoch_schluss_1j": 114472.445312,
-   "rueckgang_vom_hoch_prozent": 29.54
+   "rueckgang_vom_hoch_prozent": 29.56
   },
   "DAX": {
    "name": "DAX",
@@ -427,15 +427,15 @@
   "Ethereum_EUR": {
    "name": "Ethereum_EUR",
    "ticker": "ETH-EUR",
-   "kurs": 2114.02002,
-   "zeit_zuerich": "24.10.2026 14:30",
-   "zeit_utc": "2026-10-24T12:30:00+00:00",
+   "kurs": 2113.949951,
+   "zeit_zuerich": "24.10.2026 15:30",
+   "zeit_utc": "2026-10-24T13:30:00+00:00",
    "vortag": 2128.308594,
    "veraenderung_prozent": -0.67,
    "tageshoch": 2129.509766,
    "tagestief": 2103.398438,
    "hoch_schluss_1j": 3574.852051,
-   "rueckgang_vom_hoch_prozent": 40.86
+   "rueckgang_vom_hoch_prozent": 40.87
   }
  }
 }
