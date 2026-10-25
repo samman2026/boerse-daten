@@ -1,6 +1,6 @@
 {
- "abgerufen_zuerich": "25.10.2026 13:32",
- "abgerufen_utc": "2026-10-25T12:32:05.230097+00:00",
+ "abgerufen_zuerich": "25.10.2026 14:31",
+ "abgerufen_utc": "2026-10-25T13:31:10.741477+00:00",
  "quelle": "Yahoo Finance (verzoegert)",
  "titel": {
   "SMI": {
@@ -128,15 +128,15 @@
   "XRP_EUR": {
    "name": "XRP_EUR",
    "ticker": "XRP-EUR",
-   "kurs": 1.1546,
-   "zeit_zuerich": "25.10.2026 13:30",
-   "zeit_utc": "2026-10-25T12:30:00+00:00",
+   "kurs": 1.1551,
+   "zeit_zuerich": "25.10.2026 14:30",
+   "zeit_utc": "2026-10-25T13:30:00+00:00",
    "vortag": 1.158938,
-   "veraenderung_prozent": -0.37,
+   "veraenderung_prozent": -0.33,
    "tageshoch": 1.171478,
    "tagestief": 1.150919,
    "hoch_schluss_1j": 2.274177,
-   "rueckgang_vom_hoch_prozent": 49.23
+   "rueckgang_vom_hoch_prozent": 49.21
   },
   "EURCHF": {
    "name": "EURCHF",
@@ -232,15 +232,15 @@
   "Bitcoin_USD": {
    "name": "Bitcoin_USD",
    "ticker": "BTC-USD",
-   "kurs": 80254.523438,
-   "zeit_zuerich": "25.10.2026 13:30",
-   "zeit_utc": "2026-10-25T12:30:00+00:00",
+   "kurs": 80170.6875,
+   "zeit_zuerich": "25.10.2026 14:30",
+   "zeit_utc": "2026-10-25T13:30:00+00:00",
    "vortag": 80790.835938,
-   "veraenderung_prozent": -0.66,
+   "veraenderung_prozent": -0.77,
    "tageshoch": 80920.164062,
    "tagestief": 80007.929688,
    "hoch_schluss_1j": 114472.445312,
-   "rueckgang_vom_hoch_prozent": 29.89
+   "rueckgang_vom_hoch_prozent": 29.97
   },
   "DAX": {
    "name": "DAX",
@@ -414,7 +414,7 @@
   "Tesla": {
    "name": "Tesla",
    "ticker": "TSLA",
-   "kurs": 372.209991,
+   "kurs": 372.220001,
    "zeit_zuerich": "23.10.2026 21:55",
    "zeit_utc": "2026-10-23T19:55:00+00:00",
    "vortag": 374.579987,
@@ -427,15 +427,15 @@
   "Ethereum_EUR": {
    "name": "Ethereum_EUR",
    "ticker": "ETH-EUR",
-   "kurs": 2077.840088,
-   "zeit_zuerich": "25.10.2026 13:30",
-   "zeit_utc": "2026-10-25T12:30:00+00:00",
+   "kurs": 2076.639893,
+   "zeit_zuerich": "25.10.2026 14:30",
+   "zeit_utc": "2026-10-25T13:30:00+00:00",
    "vortag": 2102.778076,
-   "veraenderung_prozent": -1.19,
+   "veraenderung_prozent": -1.24,
    "tageshoch": 2113.287598,
    "tagestief": 2067.790527,
    "hoch_schluss_1j": 3574.852051,
-   "rueckgang_vom_hoch_prozent": 41.88
+   "rueckgang_vom_hoch_prozent": 41.91
   }
  }
 }
