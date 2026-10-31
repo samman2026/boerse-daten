@@ -1,6 +1,6 @@
 {
- "abgerufen_zuerich": "31.10.2026 02:54",
- "abgerufen_utc": "2026-10-31T01:54:20.309784+00:00",
+ "abgerufen_zuerich": "31.10.2026 03:45",
+ "abgerufen_utc": "2026-10-31T02:45:03.568979+00:00",
  "quelle": "Yahoo Finance (verzoegert)",
  "titel": {
   "SMI": {
@@ -128,15 +128,15 @@
   "XRP_EUR": {
    "name": "XRP_EUR",
    "ticker": "XRP-EUR",
-   "kurs": 1.1236,
-   "zeit_zuerich": "31.10.2026 02:50",
-   "zeit_utc": "2026-10-31T01:50:00+00:00",
+   "kurs": 1.1254,
+   "zeit_zuerich": "31.10.2026 03:40",
+   "zeit_utc": "2026-10-31T02:40:00+00:00",
    "vortag": 1.104294,
-   "veraenderung_prozent": 1.75,
+   "veraenderung_prozent": 1.91,
    "tageshoch": 1.123542,
-   "tagestief": 1.119581,
+   "tagestief": 1.117956,
    "hoch_schluss_1j": 2.19397,
-   "rueckgang_vom_hoch_prozent": 48.79
+   "rueckgang_vom_hoch_prozent": 48.7
   },
   "EURCHF": {
    "name": "EURCHF",
@@ -232,15 +232,15 @@
   "Bitcoin_USD": {
    "name": "Bitcoin_USD",
    "ticker": "BTC-USD",
-   "kurs": 77264.640625,
-   "zeit_zuerich": "31.10.2026 02:50",
-   "zeit_utc": "2026-10-31T01:50:00+00:00",
+   "kurs": 77283.117188,
+   "zeit_zuerich": "31.10.2026 03:45",
+   "zeit_utc": "2026-10-31T02:45:00+00:00",
    "vortag": 77775.109375,
-   "veraenderung_prozent": -0.66,
+   "veraenderung_prozent": -0.63,
    "tageshoch": 77434.148438,
    "tagestief": 77161.585938,
    "hoch_schluss_1j": 110639.625,
-   "rueckgang_vom_hoch_prozent": 30.17
+   "rueckgang_vom_hoch_prozent": 30.15
   },
   "DAX": {
    "name": "DAX",
@@ -401,7 +401,7 @@
   "Apple": {
    "name": "Apple",
    "ticker": "AAPL",
-   "kurs": 344.799988,
+   "kurs": 344.790009,
    "zeit_zuerich": "30.10.2026 20:55",
    "zeit_utc": "2026-10-30T19:55:00+00:00",
    "vortag": 348.910004,
@@ -414,28 +414,28 @@
   "Tesla": {
    "name": "Tesla",
    "ticker": "TSLA",
-   "kurs": 399.809998,
+   "kurs": 399.820007,
    "zeit_zuerich": "30.10.2026 20:55",
    "zeit_utc": "2026-10-30T19:55:00+00:00",
    "vortag": 403.299988,
-   "veraenderung_prozent": -0.87,
+   "veraenderung_prozent": -0.86,
    "tageshoch": 404.220001,
    "tagestief": 387.519989,
    "hoch_schluss_1j": 489.880005,
-   "rueckgang_vom_hoch_prozent": 18.39
+   "rueckgang_vom_hoch_prozent": 18.38
   },
   "Ethereum_EUR": {
    "name": "Ethereum_EUR",
    "ticker": "ETH-EUR",
-   "kurs": 2009.349976,
-   "zeit_zuerich": "31.10.2026 02:50",
-   "zeit_utc": "2026-10-31T01:50:00+00:00",
+   "kurs": 2010.869995,
+   "zeit_zuerich": "31.10.2026 03:40",
+   "zeit_utc": "2026-10-31T02:40:00+00:00",
    "vortag": 2011.645386,
-   "veraenderung_prozent": -0.11,
+   "veraenderung_prozent": -0.04,
    "tageshoch": 2005.256958,
-   "tagestief": 1999.201904,
+   "tagestief": 1998.652588,
    "hoch_schluss_1j": 3392.816162,
-   "rueckgang_vom_hoch_prozent": 40.78
+   "rueckgang_vom_hoch_prozent": 40.73
   }
  }
 }
