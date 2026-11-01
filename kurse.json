@@ -1,6 +1,6 @@
 {
- "abgerufen_zuerich": "01.11.2026 20:30",
- "abgerufen_utc": "2026-11-01T19:30:23.863148+00:00",
+ "abgerufen_zuerich": "02.11.2026 00:29",
+ "abgerufen_utc": "2026-11-01T23:29:27.730221+00:00",
  "quelle": "Yahoo Finance (verzoegert)",
  "titel": {
   "SMI": {
@@ -128,15 +128,15 @@
   "XRP_EUR": {
    "name": "XRP_EUR",
    "ticker": "XRP-EUR",
-   "kurs": 1.118,
-   "zeit_zuerich": "01.11.2026 20:30",
-   "zeit_utc": "2026-11-01T19:30:00+00:00",
+   "kurs": 1.1194,
+   "zeit_zuerich": "02.11.2026 00:25",
+   "zeit_utc": "2026-11-01T23:25:00+00:00",
    "vortag": 1.116223,
-   "veraenderung_prozent": 0.16,
+   "veraenderung_prozent": 0.28,
    "tageshoch": 1.122108,
-   "tagestief": 1.11391,
+   "tagestief": 1.114051,
    "hoch_schluss_1j": 2.19397,
-   "rueckgang_vom_hoch_prozent": 49.04
+   "rueckgang_vom_hoch_prozent": 48.98
   },
   "EURCHF": {
    "name": "EURCHF",
@@ -206,41 +206,41 @@
   "Brent": {
    "name": "Brent",
    "ticker": "BZ=F",
-   "kurs": 113.43,
-   "zeit_zuerich": "30.10.2026 05:00",
-   "zeit_utc": "2026-10-30T04:00:00+00:00",
-   "vortag": 114.879997,
-   "veraenderung_prozent": -1.26,
-   "tageshoch": 114.290001,
-   "tagestief": 111.050003,
+   "kurs": 111.779999,
+   "zeit_zuerich": "02.11.2026 00:15",
+   "zeit_utc": "2026-11-01T23:15:00+00:00",
+   "vortag": 117.639999,
+   "veraenderung_prozent": -4.98,
+   "tageshoch": 112.379997,
+   "tagestief": 111.489998,
    "hoch_schluss_1j": 118.349998,
-   "rueckgang_vom_hoch_prozent": 4.16
+   "rueckgang_vom_hoch_prozent": 5.55
   },
   "Gold": {
    "name": "Gold",
    "ticker": "GC=F",
-   "kurs": 3898.899902,
-   "zeit_zuerich": "30.10.2026 05:00",
-   "zeit_utc": "2026-10-30T04:00:00+00:00",
-   "vortag": 4031.399902,
-   "veraenderung_prozent": -3.29,
-   "tageshoch": 4038.199951,
-   "tagestief": 3879.300049,
+   "kurs": 3902.899902,
+   "zeit_zuerich": "02.11.2026 00:15",
+   "zeit_utc": "2026-11-01T23:15:00+00:00",
+   "vortag": 3898.899902,
+   "veraenderung_prozent": 0.1,
+   "tageshoch": 3907.5,
+   "tagestief": 3889.0,
    "hoch_schluss_1j": 5318.399902,
-   "rueckgang_vom_hoch_prozent": 26.69
+   "rueckgang_vom_hoch_prozent": 26.62
   },
   "Bitcoin_USD": {
    "name": "Bitcoin_USD",
    "ticker": "BTC-USD",
-   "kurs": 77709.328125,
-   "zeit_zuerich": "01.11.2026 20:30",
-   "zeit_utc": "2026-11-01T19:30:00+00:00",
+   "kurs": 77948.507812,
+   "zeit_zuerich": "02.11.2026 00:25",
+   "zeit_utc": "2026-11-01T23:25:00+00:00",
    "vortag": 77434.75,
-   "veraenderung_prozent": 0.35,
+   "veraenderung_prozent": 0.66,
    "tageshoch": 78126.929688,
    "tagestief": 77395.695312,
    "hoch_schluss_1j": 110639.625,
-   "rueckgang_vom_hoch_prozent": 29.76
+   "rueckgang_vom_hoch_prozent": 29.55
   },
   "DAX": {
    "name": "DAX",
@@ -401,7 +401,7 @@
   "Apple": {
    "name": "Apple",
    "ticker": "AAPL",
-   "kurs": 344.799988,
+   "kurs": 344.790009,
    "zeit_zuerich": "30.10.2026 20:55",
    "zeit_utc": "2026-10-30T19:55:00+00:00",
    "vortag": 348.910004,
@@ -414,28 +414,28 @@
   "Tesla": {
    "name": "Tesla",
    "ticker": "TSLA",
-   "kurs": 399.809998,
+   "kurs": 399.820007,
    "zeit_zuerich": "30.10.2026 20:55",
    "zeit_utc": "2026-10-30T19:55:00+00:00",
    "vortag": 403.299988,
-   "veraenderung_prozent": -0.87,
+   "veraenderung_prozent": -0.86,
    "tageshoch": 404.220001,
    "tagestief": 387.519989,
    "hoch_schluss_1j": 489.880005,
-   "rueckgang_vom_hoch_prozent": 18.39
+   "rueckgang_vom_hoch_prozent": 18.38
   },
   "Ethereum_EUR": {
    "name": "Ethereum_EUR",
    "ticker": "ETH-EUR",
-   "kurs": 2025.579956,
-   "zeit_zuerich": "01.11.2026 20:30",
-   "zeit_utc": "2026-11-01T19:30:00+00:00",
+   "kurs": 2029.900024,
+   "zeit_zuerich": "02.11.2026 00:25",
+   "zeit_utc": "2026-11-01T23:25:00+00:00",
    "vortag": 2011.471802,
-   "veraenderung_prozent": 0.7,
+   "veraenderung_prozent": 0.92,
    "tageshoch": 2029.62207,
-   "tagestief": 2011.158447,
+   "tagestief": 2016.99939,
    "hoch_schluss_1j": 3392.816162,
-   "rueckgang_vom_hoch_prozent": 40.3
+   "rueckgang_vom_hoch_prozent": 40.17
   }
  }
 }
